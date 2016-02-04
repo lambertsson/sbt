@@ -1,1 +1,7 @@
 compile
+dir
+quit
+exit
+compile
+~compile
+run

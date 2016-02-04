@@ -1,3 +1,7 @@
 compile
 run
 ~run
+compile
+run
+quit
+exit
